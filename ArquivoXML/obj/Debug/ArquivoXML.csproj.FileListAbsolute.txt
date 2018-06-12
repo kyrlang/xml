@@ -1,0 +1,8 @@
+E:\ArquivoXML\ArquivoXML\bin\Debug\ArquivoXML.exe
+E:\ArquivoXML\ArquivoXML\bin\Debug\ArquivoXML.pdb
+E:\ArquivoXML\ArquivoXML\obj\Debug\ResolveAssemblyReference.cache
+E:\ArquivoXML\ArquivoXML\obj\Debug\ArquivoXML.Properties.Resources.resources
+E:\ArquivoXML\ArquivoXML\obj\Debug\ArquivoXML.csproj.GenerateResource.Cache
+E:\ArquivoXML\ArquivoXML\obj\Debug\ArquivoXML.exe
+E:\ArquivoXML\ArquivoXML\obj\Debug\ArquivoXML.pdb
+E:\ArquivoXML\ArquivoXML\obj\Debug\ArquivoXML.frmPrincipal.resources
